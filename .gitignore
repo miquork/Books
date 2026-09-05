@@ -1,0 +1,11 @@
+.venv/
+build/
+dist/
+release/
+__pycache__/
+.DS_Store
+*.pdf
+*.png
+*.jpg
+*.webp
+*.zip

@@ -1,0 +1,42 @@
+{
+  "title": "Books · Mikko Voutilainen",
+  "url": "https://miquork.github.io",
+  "base_path": "/Books",
+  "repository": "miquork/Books",
+  "books": [
+    {
+      "slug": "the-mirror-that-opened-the-sky",
+      "title": "The Mirror That Opened the Sky",
+      "subtitle": "The Pharaoh’s Impossible Experiment",
+      "description": "An illustrated counterfactual journey through ancient Egypt, the history of science, and the experiment that could measure the speed of light.",
+      "hook": "A slightly curved mirror. A different history of science.",
+      "category": "Illustrated science & counterfactual history",
+      "format": "Illustrated PDF · 88 pages · English",
+      "edition": "5 September 2026 · Revision 3",
+      "release_tag": "mirror-2026-09-05-v3",
+      "pdf": "the-mirror-that-opened-the-sky-2026-09-05-workshop.pdf",
+      "pdf_sha256": "13cc85d3ed2a99d0b55ca36ed9403e1737522b3af9ad4f695c1f98db1de2affc",
+      "pdf_bytes": 16581769,
+      "media_archive": "mirror-web-images.zip",
+      "media_sha256": "795fbac2d540e12bd8a395228ab5b84a848b325c3047d6f1ab041d1f3cd28ed2",
+      "images": {
+        "cover": "mirror-cover.jpg",
+        "workshop": "mirror-workshop.jpg",
+        "transmission": "mirror-transmission.jpg"
+      },
+      "previews": [
+        {
+          "image": "workshop",
+          "alt": "A sample book spread: an imagined Egyptian workshop with the opening of Act I.",
+          "caption": "Begin in the workshop. Follow the questions from polished stone to the scale of the Sun."
+        },
+        {
+          "image": "transmission",
+          "quote": "Knowledge survives in acts of copying, comparison, and correction.",
+          "alt": "A sample book spread on the copying and transmission of knowledge, with an imagined scholarly workshop.",
+          "caption": "From the illustrated edition. The paintings are AI-generated interpretations, not archaeological records."
+        }
+      ]
+    }
+  ]
+}
